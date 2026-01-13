@@ -1,6 +1,5 @@
 Here you go — a markdown **checklist of all the paper/folder names** in that repo:
 
-```markdown
 - [ ] 3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing  
 - [ ] ALPHA- and Bi-ACT Are All You Need: Importance of Position and Force Information Control for Imitation Learning of Unimanual and Bimanual Robotic Manipulation with Low-Cost System  
 - [ ] Adaptive Compliance Policy: Learning Approximate Compliance for Diffusion Guided Control  
@@ -32,7 +31,7 @@ Here you go — a markdown **checklist of all the paper/folder names** in that r
 - [ ] Variable Impedance Control in End-Effector Space: An Action Space for Reinforcement Learning in Contact-Rich Tasks  
 - [ ] ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface  
 - [ ] Watch Less, Feel More: Sim-to-Real RL for Generalizable Articulated Object Manipulation via Motion Adaptation and Impedance Control  
-```
+
 
 You can paste this into Notion, Obsidian, GitHub, etc., and tick things off as you go. If you want, next I can:
 
